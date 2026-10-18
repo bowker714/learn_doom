@@ -1,4 +1,4 @@
-# 🕹️ Mini Doom — Pygame Raycaster
+# 🕹️ learn_doom
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat&logo=python)
 ![Pygame](https://img.shields.io/badge/Pygame-2.0%2B-green?style=flat)
